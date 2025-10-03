@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Abhishek Kini</h1>
-<h3 align="center">Engineering Student | Full-Stack Learner | Builder of Useful Things</h3>
+<h3 align="center">Engineering Student | Full-Stack Learner | Graphics Designer[Figma]</h3>
 
 ---
 
