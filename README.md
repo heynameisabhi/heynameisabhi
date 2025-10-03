@@ -28,14 +28,14 @@
 
 ### 🔡 Tulu Lipi Project  
 Preserving and digitizing the ancient **Tulu script** with modern web technologies.  
-🛠 Tech: JavaScript, HTML, CSS, Node.js  
+🛠 Tech: Next.js,PostgreSQL, Node.js  
 📍 Goal: Language preservation + cultural impact  
 
 ---
 
 ### 🎓 Smart College Assistant  
 Role-based app for students & teachers: assignments, to-do lists, performance tracker, and notifications.  
-🛠 Tech: Spring Boot, MySQL, HTML/CSS/JS  
+🛠 Tech: Spring Boot, MySQL, HTML,CSS,JS  
 📍 Goal: Enhance productivity and academic efficiency  
 
 ---
