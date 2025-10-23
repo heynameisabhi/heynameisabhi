@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 4th Sem Computer Science Engineering student at **SMVITM**
+- 🎓 5th Sem Computer Science Engineering student at **SMVITM**
 - 💡 Exploring **AI-driven tools, full-stack apps, and smart automation**
 - 🔍 Interests: Web Development, Spring Boot, Node.js, Databases, Data Visualization  
 - 🌱 Currently building projects that bridge **tech + real-world impact**
