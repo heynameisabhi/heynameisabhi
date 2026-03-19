@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Abhishek Kini</h1>
-<h3 align="center">Engineering Student | Full-Stack Learner | Graphics Designer[Figma]</h3>
+<h3 align="center">Engineering Student | Full-Stack Learner | Graphics Designer [Figma]</h3>
 
 ---
 
@@ -13,9 +13,23 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
+  <!-- Languages & Backend -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  
+  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge&logo=opencv&logoColor=white"/>
+  
+  <!-- Design -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
@@ -24,14 +38,14 @@
 
 ### 🔡 Tulu Lipi Project  
 Preserving and digitizing the ancient **Tulu script** with modern web technologies.  
-🛠 Tech: Next.js,PostgreSQL, Node.js  
+🛠 Tech: Next.js, PostgreSQL, Node.js  
 📍 Goal: Language preservation + cultural impact  
 
 ---
 
 ### 🎓 Smart College Assistant  
 Role-based app for students & teachers: assignments, to-do lists, performance tracker, and notifications.  
-🛠 Tech: Spring Boot, MySQL, HTML,CSS,JS  
+🛠 Tech: Spring Boot, MySQL, HTML, CSS, JS  
 📍 Goal: Enhance productivity and academic efficiency  
 
 ---
