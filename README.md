@@ -4,10 +4,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 5th Sem Computer Science Engineering student at **SMVITM**
-- 💡 Exploring **AI-driven tools, full-stack apps, and smart automation**
-- 🔍 Interests: Web Development, Spring Boot, Node.js, Databases, Data Visualization  
-- 🌱 Currently building projects that bridge **tech + real-world impact**
+-  6th Sem Computer Science Engineering student at **SMVITM**
+-  Exploring **AI-driven tools, full-stack apps, and smart automation**
+-  Interests: Web Development, Spring Boot, Node.js, Databases, Data Visualization  
+-  Currently building projects that bridge **tech + real-world impact**
 
 ---
 
@@ -16,6 +16,9 @@
   <!-- Languages & Backend -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -26,7 +29,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   
   <!-- AI / ML -->
-  <img src="https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge&logo=opencv&logoColor=white"/>
   
   <!-- Design -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -38,29 +41,22 @@
 
 ### 🔡 Tulu Lipi Project  
 Preserving and digitizing the ancient **Tulu script** with modern web technologies.  
-🛠 Tech: Next.js, PostgreSQL, Node.js  
-📍 Goal: Language preservation + cultural impact  
-
----
-
-### 🎓 Smart College Assistant  
-Role-based app for students & teachers: assignments, to-do lists, performance tracker, and notifications.  
-🛠 Tech: Spring Boot, MySQL, HTML, CSS, JS  
-📍 Goal: Enhance productivity and academic efficiency  
+ Tech: Next.js, PostgreSQL, Node.js  
+ Goal: Language preservation + cultural impact  
 
 ---
 
 ### 📚 Library Management System  
 Modern system with **role-based dashboards (Member & Staff)**, book transactions, fines, and notifications.  
-🛠 Tech: Java + Spring Boot + MySQL  
-📍 Goal: Simplify resource management in colleges  
+ Tech: Java + Spring Boot + MySQL  
+ Goal: Simplify resource management in colleges  
 
 ---
 
-### 💼 Job Application Portal  
-Web app to manage job applications with **CRUD features** and JSON-server backend.  
-🛠 Tech: HTML, CSS, JavaScript, Node.js, JSON Server  
-📍 Goal: Practical HR-style app for recruitment tracking  
+### ♻️ Refashion – Second-Hand Clothing Recycling System  
+An AI-powered platform to identify, classify, and recycle second-hand clothes efficiently using object detection.  
+ Tech: YOLOv8, FastAPI, React, TypeScript, Firebase (Auth & Database)  
+ Goal: Promote sustainability through smart textile recycling  
 
 ---
 
